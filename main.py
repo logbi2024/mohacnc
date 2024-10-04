@@ -1,4 +1,4 @@
-import tkinter as tk
+Tk()
 import serial
 from datetime import time
 
